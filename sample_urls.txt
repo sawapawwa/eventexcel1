@@ -1,0 +1,5 @@
+# Example seed URLs (one per line). Lines starting with # are ignored.
+https://www.eventbrite.com/d/md--baltimore/networking--events/
+https://www.meetup.com/find/?keywords=networking&location=Baltimore%2C%20MD
+# Example local event listing
+https://www.baltimoresun.com/calendar/ (replace with actual listing URL)
